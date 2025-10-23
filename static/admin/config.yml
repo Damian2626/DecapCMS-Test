@@ -1,10 +1,13 @@
 
+
 backend:
-  name: git-gateway
+  name: github
+  repo: Damian2626/DecapCMS-Test
   branch: main
 
+
 media_folder: "static/img"
-public_folder: "/img"
+public_folder: "docs"
 
 collections:
   - name: "docs"
